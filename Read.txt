@@ -1,0 +1,33 @@
+This React app is being developed as a way to organize Rowing clubs (or sports in general) 
+with a minimal cost of operation.
+
+This file will be developed over several iterations as I learn more about React, JS, CSS & HTML.
+
+v1.0.0 
+- Starting Phase I of development into JS.
+
+For Development:
+Pre-Install:
+- Visual Studio Code (Web)
+- Node.js (Web)
+- Live Server (VSC Extension)
+
+Possible Names:
+Erganized
+RowOrg
+
+Possible functionality:
+- Log in/out book (!)
+- Scheduling (!)
+- Alumni
+- Athlete Importation
+- incident reporting (!)
+- equipment reporting (!)
+- email management
+- Registration
+- Regatta Central Integration
+- 
+
+Applicaiton Competition
+-ICREW
+    -Look up Kevin Goyena (personality, schooling, etc.)
